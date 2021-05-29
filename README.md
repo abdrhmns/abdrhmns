@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abdr Rahman Saputra
-- 👀 I’m interested in Digital Creative, and IoT. I also a Content Creator.
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Digital Creative, and IoT. I also a Videographer Content Creator.
+- 🌱 I’m currently learning Object-Oriented Programing Language
 - 📫 You can reach me on 
       Instagram: @abdrhmns
       Telegram: @abdrhmns
